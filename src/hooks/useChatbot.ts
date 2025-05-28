@@ -25,7 +25,7 @@ const useChatbot = () => {
         },
         {
           headers: {
-            Authorization: `Bearer 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`, // Replace with env/secure proxy
+            Authorization: `Bearer `, // Replace with env/secure proxy
             "Content-Type": "application/json",
           },
         }
